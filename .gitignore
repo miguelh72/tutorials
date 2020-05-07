@@ -1,0 +1,4 @@
+# Ignore any file with pyc type
+*.pyc
+# Ignore entire log directory, recursively
+logs/
