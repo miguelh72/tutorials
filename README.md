@@ -8,3 +8,4 @@ Repository for online tutorials, e.g. YouTube video courses.
   
 ## Completed Tutorials
   * David Mahler's "Introduction to Git" series - https://www.youtube.com/watch?v=uR6G2v_WsRA
+  * Multiple Traversey Media Youtube tutorials: NodeJS, ExpressJS
